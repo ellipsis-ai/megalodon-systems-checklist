@@ -1,4 +1,4 @@
-function(emitters, gutters, growLightsOnAuto, overheadLights, sandFilterGauge, ellipsis) {
+function(emitters, gutters, growLightsOnAuto, overheadLights, ellipsis) {
   const EllipsisApi = require('ellipsis-api');
 const api = new EllipsisApi(ellipsis);
 
@@ -10,7 +10,6 @@ ${checkFor(emitters)}   Emitters flowing
 ${checkFor(gutters)}   Gutters draining
 ${checkFor(growLightsOnAuto)}   Grow lights on auto
 ${checkFor(overheadLights)}   Overhead room lights only on during production activities (M,W,F)
-${checkFor(sandFilterGauge)}   Both red and green arrows on sand filter gauge at 10
 `;
 
 const channels = ["farm-ops-announce"].filter(ea => ea != channel);
