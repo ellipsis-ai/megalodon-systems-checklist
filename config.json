@@ -1,0 +1,8 @@
+{
+  "name" : "Megalodon Systems Checklist",
+  "exportId" : "EIwdxe-kTPqoYDO11kuITg",
+  "icon" : "🦈",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}

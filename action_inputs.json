@@ -1,0 +1,61 @@
+[ {
+  "exportId" : "1nvmVSy2Q0OWABYUe2K01w",
+  "name" : "sandFilterGauge",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are both red and green arrows on sand filter gauge at 10? If not, contact Facilities and submit a Fiix request.",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "4BOSHulQT1WfQODyS3ce3A",
+  "name" : "summary",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `summary`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "7FbahMFWRUW2mRrueTtL_Q",
+  "name" : "growLightsOnAuto",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are grow lights set to 'Auto' (ON 12PM-6AM)?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "Qo85UVkoQki8dQUMnkOobA",
+  "name" : "gutters",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are all gutters draining?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "RvglNQ_vRmKO67i13PJuDA",
+  "name" : "emitters",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are all emitters flowing?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "X-Dn9FX8Sxq-nf9l9daQoA",
+  "name" : "overheadLights",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the overhead room lights only on during production activities (M,W,F)?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+} ]
