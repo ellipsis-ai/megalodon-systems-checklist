@@ -1,14 +1,4 @@
 [ {
-  "exportId" : "1nvmVSy2Q0OWABYUe2K01w",
-  "name" : "sandFilterGauge",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Are both red and green arrows on sand filter gauge at 10? If not, contact Facilities and submit a Fiix request.",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "4BOSHulQT1WfQODyS3ce3A",
   "name" : "summary",
   "paramType" : {
@@ -25,7 +15,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are grow lights set to 'Auto' (ON 12PM-6AM)?",
+  "question" : "Are the grow lights on auto? (Lights off: 4am to 10am?)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
